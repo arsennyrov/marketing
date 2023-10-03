@@ -345,6 +345,7 @@ body {
   text-transform: uppercase;
   padding: 0 4px 5px;
   outline-color: #FCBB0B;
+  cursor: pointer;
 }
 
 .portfolio__btn+.portfolio__btn {
