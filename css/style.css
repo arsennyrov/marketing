@@ -493,7 +493,7 @@ body {
 
 .slick-dots {
   display: flex;
-
+  cursor: pointer;
 }
 
 .slick-dots li+li {
